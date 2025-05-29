@@ -43,7 +43,7 @@ That means users can submit **malicious HTML/JS**, like:
 
 This will **actually run** on everyone’s browser. So yeah — don't run this on a public server unless you're cool with trolls injecting sketchy scripts.
 
-This app is for learning or internal use only. If you plan to make it public, you **MUST** add input sanitization or filtering. Seriously.
+This app is for learning or internal use only. If you plan to make it public, you **MUST** add input sanitization or filtering. Seriously. Since I love chaos; I didn't sanitize input and allowed users to run whatever code they want! So be warned and use this at your OWN risk!!!
 
 ---
 
