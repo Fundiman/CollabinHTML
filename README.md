@@ -2,7 +2,7 @@
 
 ### What is it?
 
-A basic web app that lets multiple users add HTML snippets live. Everyone sees new code instantly on the page. The HTML bits are saved to a file so they don’t vanish when the server restarts. (Live Version at http://37.27.51.34:3421/)
+A basic web app that lets multiple users add HTML snippets live. Everyone sees new code instantly on the page. The HTML bits are saved to a file so they don’t vanish when the server restarts. (Live Version at http://37.27.51.34:3421/, all thanks to HackClub for providing a VPS which I used to host the live version!)
 
 ### How to run it
 
