@@ -16,7 +16,7 @@ pip install flask flask-socketio
 3. Run the server:
 
 ```
-python your_script_name.py
+python server.py
 ```
 
 4. Go to `http://localhost:3421` in your browser.
